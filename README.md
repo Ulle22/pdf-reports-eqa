@@ -15,4 +15,4 @@ class_file_test:
 - manipulate the variables from input ang get more variables
 
 Output:
-- constructs the pdf report
+- constructs the pdf report and makes a csv file "Methods"
